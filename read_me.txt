@@ -44,13 +44,13 @@ NOTE: If you are using ubuntu, chnage the directory to 'image_matching' using te
 
 NOW YOU ARE READY To RUN SCRIPT
 
-13) change directory where face_recog.py script is kept i.e go to folder 'complete_project':(env) E:\image_matching> cd complete_project
-14)run the python scipt: (env) E:\image_matching\complete_project>python face_recog.py
+13) change directory where face_recog.py script is kept i.e go to folder 'image-based-face-matching':(env) E:\image_matching> cd image-based-face-matching
+14)run the python scipt: (env) E:\image_matching\image-based-face-matching>python face_recog.py
 If eveything is okay you will get output sayinh images are of same person or different person.
 
 To Change image file:
 
-15) Type 'idle' as shown here E:\image_matching\complete_project>idle
+15) Type 'idle' as shown here E:\image_matching\image-based-face-matching>idle
 This will open a python IDE, go to 'file' tab (upper left) from menu and select 'open' to open 'face_recog.py' file. Follow comments to test
 other image file, save using ctrl+s and run the program as step (19).
 
