@@ -48,7 +48,8 @@ NOTE: If you are using ubuntu, chnage the directory to 'image_matching' using te
 
 NOW YOU ARE READY To RUN SCRIPT
 
-13) change directory where face_recog.py script is kept i.e go to folder 'image-based-face-matching':(env) E:\image_matching> cd image-based-face-matching
+13) change directory where face_recog.py script is kept i.e go to folder 'image-based-face-matching':(env) E:\image_matching> cd image-based-face-matching.
+
 14)run the python scipt: (env) E:\image_matching\image-based-face-matching>python face_recog.py
 If eveything is okay you will get output sayinh images are of same person or different person.
 
