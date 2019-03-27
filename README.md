@@ -15,10 +15,15 @@ Ubuntu : Open terminal
 
 
 1) Download and install python from> https://www.python.org/downloads/    (if you already have then ignore this step and check its version to be sure)
+
 2) check python version using command > python -V
+
 3)install pip using command > python get-pip.py
+
 4) Upgrade pip > python -m pip install -U pip
+
 5) Install virtual environment> pip install virtualenv
+
 6) test installation> virtualenv --version
 
 7) make a folder named 'image_matching' in any drive of windows (in my case i made a folder in 'E' drive)
